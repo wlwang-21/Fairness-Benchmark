@@ -4,7 +4,7 @@
 
 Pre-print: https://arxiv.org/abs/2309.00770
 
-If you use or discuss our survey in your work, please use the following citation:
+我们使用了该文章，特此声明，如果您使用了我们的仓库，也请引用做了基础贡献的稳增长。If you use or discuss our survey in your work, please use the following citation:
 ```
 @article{gallegos2023bias,
     title={Bias and Fairness in Large Language Models: A Survey},
