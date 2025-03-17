@@ -1,5 +1,8 @@
 # 公平机器学习评估Benchmark
-我们的工作基于如下文章再次整理，Bias and Fairness in Large Language Models: A Survey
+我们的工作基于如下文章再次整理，在该篇文章的基础上做了进一步的收集。
+2025.3.17补充tabular数据集adult
+
+原文章：Bias and Fairness in Large Language Models: A Survey
 > Isabel O. Gallegos, Ryan A. Rossi, Joe Barrow, Md Mehrab Tanjim, Sungchul Kim, Franck Dernoncourt, Tong Yu, Ruiyi Zhang, and Nesreen K. Ahmed
 
 Pre-print: https://arxiv.org/abs/2309.00770
